@@ -1,0 +1,8 @@
+
+[config]
+
+name="GodotAndroidEssentials"
+binary_type="local"
+binary="GodotAndroidEssentials.aar"
+
+[dependencies]
